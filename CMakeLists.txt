@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.0)
 
-project(part VERSION 1.0)
+project(part VERSION 1.0.1)
 
 message(STATUS "Project located at ${CMAKE_SOURCE_DIR}")
 
