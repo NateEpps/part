@@ -1,0 +1,14 @@
+//
+// Config.hpp(.in)
+// Nathanael Epps
+//
+
+#ifndef CONFIG_HPP
+#define CONFIG_HPP
+
+#include <string>
+
+#define PROJECT_NAME std::string("${PROJECT_NAME}")
+#define PROJECT_VERSION std::string("${PROJECT_VERSION}")
+
+#endif

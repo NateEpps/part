@@ -1,0 +1,3 @@
+set(SOURCE_FILES ${CMAKE_CURRENT_SOURCE_DIR}/part.cpp)
+
+add_executable(${PROJECT_NAME} ${SOURCE_FILES})
