@@ -3,5 +3,10 @@
 A command-line tool to output part of a file.
 
 ```
-Todo: insert stuff here
+$ ./part --help
+./part v1.0
+Usage: ./part [options] <start> <end> <file>
+Options:
+   --version, -v, --info      Print some info
+   --help, -h                 Print this help information
 ```
